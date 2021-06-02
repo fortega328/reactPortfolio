@@ -22,8 +22,8 @@ export default function Footer() {
           </h1>
         </ScrollLink>
         
-        <a href= "/assets/frankresume2021.pdf"className="text-white text-xl">
-        Resume  
+        <a href= "/assets/frankresume2021.pdf" className="text-white text-xl">
+        View Resumé  
         </a>
       </div>
     </div>
