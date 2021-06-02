@@ -1,6 +1,8 @@
 # Portfolio made with Create-React-App
 
 This is a continuously developed portfolio for use in UM coding bootcamp.
+Deployed at [netlify](https://nostalgic-cray-700af3.netlify.app/)
+Please email fortega328@github.com for any questions.
 
 ## Available Scripts
 
